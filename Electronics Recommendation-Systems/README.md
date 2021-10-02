@@ -35,22 +35,19 @@ products.
 Steps and tasks:
 1. Read and explore the given dataset. (Rename
 column/add headers, plot histograms, find data
-characteristics) - (2.5 Marks)
+characteristics) 
 2. Take a subset of the dataset to make it less sparse/ denser.
 ( For example, keep the users only who has given 50 or
-more number of ratings ) - (2.5 Marks)
+more number of ratings ) 
 3. Split the data randomly into train and test dataset. ( For
-example, split it in 70/30 ratio) - (2.5 Marks)
-4. Build Popularity Recommender model. - (20 Marks)
-5. Build Collaborative Filtering model. - (20 Marks)
+example, split it in 70/30 ratio) 
+4. Build Popularity Recommender model. 
+5. Build Collaborative Filtering model. 
 6. Evaluate both the models. ( Once the model is trained on
 the training data, it can be used to compute the error
-(RMSE) on predictions made on the test data.) - (7.5 Marks)
+(RMSE) on predictions made on the test data.) 
 7. Get top - K ( K = 5) recommendations. Since our goal is to
 recommend new products for each user based on his/her
-habits, we will recommend 5 new products. - (7.5 Marks)
-8. Summarise your insights. - (7.5 marks)
+habits, we will recommend 5 new products. 
+8. Summarise your insights. 
 
-References:
-● Recommeneder systems and its applications
-● Use cases of Recommendation systems
